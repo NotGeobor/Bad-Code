@@ -1,0 +1,7 @@
+vi = float(input("vi? "))
+a = float(input("a? "))
+t = float(input("t? "))
+vf = (vi + (a * t))
+print()
+print(vf)
+print()

@@ -1,0 +1,8 @@
+xf = float(input("xf? "))
+xi = float(input("xi? "))
+a = float(input("a? "))
+t = float(input("t? "))
+vi = ((xf - xi - (0.5 * a * (t ** 2))) / t)
+print()
+print(vi)
+print()
